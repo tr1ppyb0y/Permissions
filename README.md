@@ -14,5 +14,4 @@ LLD for user permissions in a hierarchal relationship.
     and check the users permissions by executing commands in step 2.
 
 
-### This project display my skills to write clean and reusable code.
-### Apart from that it also shows how efficiently I can incorporate in-built or otherwise data structures with business logic.
+#### This project display my skills to write clean and reusable code. Apart from that it also shows how efficiently I can incorporate in-built or otherwise data structures with business logic.
